@@ -1,6 +1,5 @@
 # Ignore build and VS-specific folders
 .vs/
-.class/
 .vscode/
 bin/
 obj/
